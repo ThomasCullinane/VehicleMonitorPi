@@ -1,3 +1,7 @@
+VMPi.zip is folder structure on Remote data processing server
+VMPI folder contents are for the RPi 
+VMPI folder on Rpi to include folders; camera, exceptions, gdVMPi, sensordata
+
 # VehiclePiSense
 Comp Sys Assignment 2
 
